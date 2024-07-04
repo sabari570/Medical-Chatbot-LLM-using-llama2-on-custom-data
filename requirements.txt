@@ -1,8 +1,11 @@
-ctransformers==0.2.5
-sentence-transformers==2.2.2
-pinecone-client
-langchain==0.0.225
+ctransformers==0.2.27
+sentence-transformers==3.0.1
+langchain==0.2.6
 flask
-pypdf
-python-dotenv
+pypdf==4.2.0
+faiss-cpu==1.8.0
+streamlit==1.18.0
+streamlit-chat==0.1.1
+altair==4.2.2
+protobuf==3.19.0
 -e .
